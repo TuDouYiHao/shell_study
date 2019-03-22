@@ -6,4 +6,5 @@
 # Usage: print hello world.
 
 #printf "hello world"
+echo "您当前运行的脚本为：$0"
 echo "hello world"
